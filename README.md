@@ -1,7 +1,3 @@
-packa 
-WGUPS Routing Program
-
-
 Stated Problem
 The purpose of this project is to create an algorithm using Python to deliver 40 packages in under 140 miles. The project has the following constraints:
 1)	Three trucks available for deliveries
